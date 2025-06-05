@@ -1,2 +1,2 @@
-# chatgpt-notes
-Repository for chatgpt notes
+# ai-notes
+Repository for ai generated notes
